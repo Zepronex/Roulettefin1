@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: Roulette, Configuration: Debug x64 ------
+1>Roulette.cpp
+1>C:\Users\calle\source\repos\Roulettefin\Roulette\Roulette\Roulette.cpp(47,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\calle\source\repos\Roulettefin\Roulette\Roulette\Roulette.cpp(105,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>Roulette.vcxproj -> C:\Users\calle\source\repos\Roulettefin\Roulette\x64\Debug\Roulette.exe
+1>Done building project "Roulette.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
